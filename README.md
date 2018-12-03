@@ -1,0 +1,12 @@
+    "bcrypt": "^3.0.2",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-ejs-extend": "0.0.1",
+    "express-fileupload": "^1.0.0",
+    "express-session": "^1.15.6",
+    "gm": "^1.23.1",
+    "json": "^9.0.6",
+    "morgan": "^1.9.1",
+    "mysql2": "^1.6.1",
+    "short-unique-id": "^1.1.1"
